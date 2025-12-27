@@ -5,7 +5,7 @@
     "url": "https://github.com/carollyb/bank-design-system.git"
   },
   "private": false,
-  "version": "0.1.5",
+  "version": "0.1.6",
   "type": "module",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
@@ -28,8 +28,8 @@
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@mui/material": "^7",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@emotion/react": "^11.14.0",
@@ -51,9 +51,6 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "packageManager": "pnpm@10.26.2+sha512.0e308ff2005fc7410366f154f625f6631ab2b16b1d2e70238444dd6ae9d630a8482d92a451144debc492416896ed16f7b114a86ec68b8404b2443869e68ffda6"
 }
