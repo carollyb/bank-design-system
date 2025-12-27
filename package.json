@@ -1,5 +1,9 @@
 {
   "name": "@carollyb/bank-design-system",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carollyb/bank-design-system.git"
+  },
   "private": false,
   "version": "0.1.1",
   "type": "module",
