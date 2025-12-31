@@ -5,7 +5,7 @@
     "url": "https://github.com/carollyb/bank-design-system.git"
   },
   "private": false,
-  "version": "0.1.6",
+  "version": "0.1.7",
   "type": "module",
   "main": "dist/index.cjs",
   "module": "dist/index.js",
