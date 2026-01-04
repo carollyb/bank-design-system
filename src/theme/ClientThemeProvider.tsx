@@ -27,8 +27,25 @@ export default function ClientThemeProvider({
       },
     },
     typography: {
-      h1: { fontFamily, fontSize: '48px', fontWeight: 500, lineHeight: '62px' },
-      /* demais estilos */
+      h1: {
+        fontFamily: fontFamily,
+        fontSize: '48px',
+        fontWeight: 500,
+        lineHeight: '62px',
+      },
+      h2: {
+        fontFamily: fontFamily,
+        fontSize: '24px',
+        fontWeight: 400,
+      },
+      body1: {
+        fontFamily: 'Roboto, sans-serif',
+        fontSize: 14,
+      },
+      body2: {
+        fontFamily: fontFamily,
+        fontSize: 14,
+      },
     },
     components: {
       MuiButton: { styleOverrides: { root: { borderRadius: 8 } } },
